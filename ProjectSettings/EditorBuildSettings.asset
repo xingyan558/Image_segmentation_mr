@@ -9,5 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    YVR.Core.XR.YVRXRSettings: {fileID: 11400000, guid: ce0ba996ee12bd841b9d9c99b7bb4fda, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cc5dfab2688e26344ab97e826bde65fb, type: 2}
+    YVR.Core.XR.YVRXRSettings: {fileID: 11400000, guid: 1912143b03673bf4594bec3c9e0eb238, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b9fca05e9cb770b4789cd8b6df50fd25, type: 2}
